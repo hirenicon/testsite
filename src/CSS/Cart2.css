@@ -1,0 +1,82 @@
+.saprate-table-border tr td:first-child{
+    border-left: 2px solid #F2F1F1;
+}
+.saprate-table-border tr td{
+    border: 2px solid #F2F1F1;
+    border-left: hidden;
+}
+.cart-product-delete-2{
+    color: #820000;
+    font-family: Mulish;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.cart-product-delete-2 span{
+    margin-left: 2px;
+}
+.saprate-table-border{
+    border-collapse: separate;
+    border-spacing: 0px 10px;
+}
+.cart-product-qty-2{
+    text-align: center;
+}
+.cart-product-qty-2 span select{
+    padding: 7px 6px 7px 8px;
+    outline: none;
+    border: 1px solid #F2F1F1;
+    border-radius: 4px;
+}
+.cart-product-sub-total-2 span:first-child{
+    margin-right: 0px;
+}
+.cart-product-sub-total-2 span {
+    font-family: 'Roboto';
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 700;
+    margin: 10px 20px;
+    text-transform: uppercase;
+}
+.cart-product-sub-total-2{
+    display: flex;
+    justify-content: flex-end;
+}
+.cart-product-delivery-details{
+    display: flex;
+    justify-content: flex-end;
+}
+.cart-product-delivery-details h5{
+    font-family: Mulish;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.cart2-total-container{
+    display: flex;
+    justify-content: flex-end;
+}
+.cart2-product-checkout-button a {
+    color: #fff;
+    background: #87CEEB;
+    text-decoration: none;
+    border: 1px solid #87CEEB;
+    padding: 10px 20px;
+    font-family: 'Mulish';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    transition: all 0.3s;
+    border-radius: 5px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+.cart2-product-checkout-button a:hover{
+    color: #000000;
+    background: #fff;
+}
+.add-bottom-margin-voucher{
+    margin-bottom: 20px;
+}
+.cart-product-total-area{margin-top: 20px;}
