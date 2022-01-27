@@ -40,7 +40,7 @@
 	background: #fff;
 	border: 1px solid #87CEEB;
 }
-.home-about-us{padding-top: 50px;padding-bottom: 70px;background-image: url(http://localhost:3000/img/home_page_about_us_bg.png);background-size: cover;background-position: center;}
+.home-about-us{padding-top: 50px;padding-bottom: 70px;background-image: url(http://localhost:3000/img/home_page_about_us_bg.webp);background-size: cover;background-position: center;}
 .about-us-title h2{
 	font-family: 'Roboto';
     font-size: 32px;
@@ -57,7 +57,7 @@
     position: relative;
 }
 .about-us-video{
-    background-image: url(http://localhost:3000/img/about_us_video.jpg);
+    background-image: url(http://localhost:3000/img/about_us_video.webp);
     position: absolute;
     height: 430px;
     width: 430px;
@@ -127,9 +127,9 @@
 	position: relative;
 	overflow: hidden;
 }
-.category-product-card-bg.shirts{background-image: url(http://localhost:3000/img/product_shirts.jpg);}
-.category-product-card-bg.sweat-shirts{background-image: url(http://localhost:3000/img/product_sweatshirts.jpg);}
-.category-product-card-bg.bottoms{background-image: url(http://localhost:3000/img/product_bottoms.jpg);}
+.category-product-card-bg.shirts{background-image: url(http://localhost:3000/img/product_shirts.webp);}
+.category-product-card-bg.sweat-shirts{background-image: url(http://localhost:3000/img/product_sweatshirts.webp);}
+.category-product-card-bg.bottoms{background-image: url(http://localhost:3000/img/product_bottoms.webp);}
 .category-product-card-bg h2{
     color: #fff;
     font-family: 'Roboto';
@@ -192,7 +192,7 @@
 	background: #fff;
 	border: 1px solid #87CEEB;
 }
-.home-product-content{padding-top: 15px;background-image: url(http://localhost:3000/img/home_page_about_us_bg.png);background-size: cover;background-position: center;}
+.home-product-content{padding-top: 15px;background-image: url(http://localhost:3000/img/home_page_about_us_bg.webp);background-size: cover;background-position: center;}
 .home-product{padding: 40px 0px;}
 .home-product-title h2{
 	font-family: 'Roboto';
