@@ -1,5 +1,5 @@
 .home-banner{
-	background-image: url('http://localhost:3000/img/home_page_banner.webp');
+	background-image: url('https://test-site-demo.herokuapp.com/img/home_page_banner.webp');
 	min-height: 622px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -40,11 +40,7 @@
 	background: #fff;
 	border: 1px solid #87CEEB;
 }
-<<<<<<< HEAD
-.home-about-us{padding-top: 50px;padding-bottom: 70px;background-image: url(http://localhost:3000/img/home_page_about_us_bg.webp);background-size: cover;background-position: center;}
-=======
 .home-about-us{padding-top: 50px;padding-bottom: 70px;background-image: url(https://test-site-demo.herokuapp.com/img/home_page_about_us_bg.webp);background-size: cover;background-position: center;}
->>>>>>> b9ad290cd106796ee37b0850d553cd9c67b33403
 .about-us-title h2{
 	font-family: 'Roboto';
     font-size: 32px;
@@ -61,11 +57,7 @@
     position: relative;
 }
 .about-us-video{
-<<<<<<< HEAD
-    background-image: url(http://localhost:3000/img/about_us_video.webp);
-=======
     background-image: url(https://test-site-demo.herokuapp.com/img/about_us_video.webp);
->>>>>>> b9ad290cd106796ee37b0850d553cd9c67b33403
     position: absolute;
     height: 430px;
     width: 430px;
@@ -135,15 +127,9 @@
 	position: relative;
 	overflow: hidden;
 }
-<<<<<<< HEAD
-.category-product-card-bg.shirts{background-image: url(http://localhost:3000/img/product_shirts.webp);}
-.category-product-card-bg.sweat-shirts{background-image: url(http://localhost:3000/img/product_sweatshirts.webp);}
-.category-product-card-bg.bottoms{background-image: url(http://localhost:3000/img/product_bottoms.webp);}
-=======
 .category-product-card-bg.shirts{background-image: url(https://test-site-demo.herokuapp.com/img/product_shirts.webp);}
 .category-product-card-bg.sweat-shirts{background-image: url(https://test-site-demo.herokuapp.com/img/product_sweatshirts.webp);}
 .category-product-card-bg.bottoms{background-image: url(https://test-site-demo.herokuapp.com/img/product_bottoms.webp);}
->>>>>>> b9ad290cd106796ee37b0850d553cd9c67b33403
 .category-product-card-bg h2{
     color: #fff;
     font-family: 'Roboto';
@@ -206,11 +192,7 @@
 	background: #fff;
 	border: 1px solid #87CEEB;
 }
-<<<<<<< HEAD
-.home-product-content{padding-top: 15px;background-image: url(http://localhost:3000/img/home_page_about_us_bg.webp);background-size: cover;background-position: center;}
-=======
 .home-product-content{padding-top: 15px;background-image: url(https://test-site-demo.herokuapp.com/img/home_page_about_us_bg.webp);background-size: cover;background-position: center;}
->>>>>>> b9ad290cd106796ee37b0850d553cd9c67b33403
 .home-product{padding: 40px 0px;}
 .home-product-title h2{
 	font-family: 'Roboto';
