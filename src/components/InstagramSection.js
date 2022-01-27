@@ -68,7 +68,7 @@ const InstagramSection = () =>{
 						<Slider {...instagram_settings}>
 							<div className="home-page-insta-post">
 								<a href="/">
-									<img src="/img/product_img_2.jpg" alt="inst_post"/>
+									<img src="/img/product_img_2.webp" alt="inst_post"/>
 									<div className="home-page-insta-post-overlay">
 											<i className="fab fa-instagram"></i>
 									</div>
@@ -76,7 +76,7 @@ const InstagramSection = () =>{
 							</div>
 							<div className="home-page-insta-post">
 								<a href="/">
-									<img src="/img/product_shirts.jpg" alt="inst_post"/>
+									<img src="/img/product_shirts.webp" alt="inst_post"/>
 									<div className="home-page-insta-post-overlay">
 											<i className="fab fa-instagram"></i>
 									</div>
@@ -84,7 +84,7 @@ const InstagramSection = () =>{
 							</div>
 							<div className="home-page-insta-post">
 								<a href="/">
-									<img src="/img/product_img_2.jpg" alt="inst_post"/>
+									<img src="/img/product_img_2.webp" alt="inst_post"/>
 									<div className="home-page-insta-post-overlay">
 											<i className="fab fa-instagram"></i>
 									</div>
@@ -92,7 +92,7 @@ const InstagramSection = () =>{
 							</div>
 							<div className="home-page-insta-post">
 								<a href="/">
-									<img src="/img/about_us_video.jpg" alt="inst_post"/>
+									<img src="/img/about_us_video.webp" alt="inst_post"/>
 									<div className="home-page-insta-post-overlay">
 											<i className="fab fa-instagram"></i>
 									</div>
@@ -100,7 +100,7 @@ const InstagramSection = () =>{
 							</div>
 							<div className="home-page-insta-post">
 								<a href="/">
-									<img src="/img/product_bottoms.jpg" alt="inst_post"/>
+									<img src="/img/product_bottoms.webp" alt="inst_post"/>
 									<div className="home-page-insta-post-overlay">
 											<i className="fab fa-instagram"></i>
 									</div>
@@ -108,7 +108,7 @@ const InstagramSection = () =>{
 							</div>
 							<div className="home-page-insta-post">
 								<a href="/">
-									<img src="/img/product_img_3.jpg" alt="inst_post"/>
+									<img src="/img/product_img_3.webp" alt="inst_post"/>
 									<div className="home-page-insta-post-overlay">
 											<i className="fab fa-instagram"></i>
 									</div>
