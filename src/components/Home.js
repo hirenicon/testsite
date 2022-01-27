@@ -179,7 +179,7 @@ const Home = () =>{
       				<Slider {...settings}>
 					      	<div className="home-product-card">
 					      		<div className="home-product-img">
-					      			<img alt="product-img" src="/img/product_sweatshirt_2.jpg"/>
+					      			<img alt="product-img" src="/img/product_sweatshirt_2.webp"/>
 					      			<div className="product-img-content">
 					      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 					      			</div>
@@ -193,7 +193,7 @@ const Home = () =>{
 					      	</div>
 					      	<div className="home-product-card">
 					      		<div className="home-product-img">
-					      			<img alt="product-img" src="/img/product_bottoms.jpg"/>
+					      			<img alt="product-img" src="/img/product_bottoms.webp"/>
 					      			<div className="product-img-content">
 					      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 					      			</div>
@@ -207,7 +207,7 @@ const Home = () =>{
 					      	</div>
 					      	<div className="home-product-card">
 					      		<div className="home-product-img">
-					      			<img alt="product-img" src="/img/product_sweatshirts.jpg"/>
+					      			<img alt="product-img" src="/img/product_sweatshirts.webp"/>
 					      			<div className="product-img-content">
 					      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 					      			</div>
@@ -221,7 +221,7 @@ const Home = () =>{
 					      	</div>
 					      	<div className="home-product-card">
 					      		<div className="home-product-img">
-					      			<img alt="product-img" src="/img/product_sweatshirts.jpg"/>
+					      			<img alt="product-img" src="/img/product_sweatshirts.webp"/>
 					      			<div className="product-img-content">
 					      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 					      			</div>
@@ -235,7 +235,7 @@ const Home = () =>{
 					      	</div>
 					      	<div className="home-product-card">
 					      		<div className="home-product-img">
-					      			<img alt="product-img" src="/img/product_sweatshirt_2.jpg"/>
+					      			<img alt="product-img" src="/img/product_sweatshirt_2.webp"/>
 					      			<div className="product-img-content">
 					      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 					      			</div>
@@ -263,7 +263,7 @@ const Home = () =>{
 									<div className="news-item">
 										<div className="news-item-image">
 											<a href="/">
-												<img alt="news-img" src="/img/news_image.jpg"/>
+												<img alt="news-img" src="/img/news_image.webp"/>
 												<div className="news-item-image-overlay">
 														<i className="fas fa-link"></i>
 												</div>
@@ -293,7 +293,7 @@ const Home = () =>{
 									<div className="news-item">
 										<div className="news-item-image">
 											<a href="/">
-												<img alt="news-img" src="/img/news_image.jpg"/>
+												<img alt="news-img" src="/img/news_image.webp"/>
 												<div className="news-item-image-overlay">
 														<i className="fas fa-link"></i>
 												</div>
@@ -323,7 +323,7 @@ const Home = () =>{
 									<div className="news-item">
 										<div className="news-item-image">
 											<a href="/">
-												<img alt="news-img" src="/img/news_image.jpg"/>
+												<img alt="news-img" src="/img/news_image.webp"/>
 												<div className="news-item-image-overlay">
 														<i className="fas fa-link"></i>
 												</div>
