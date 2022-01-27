@@ -9,7 +9,7 @@ const Header = (props) =>{
 		<>
 			<div className="header-wrapper">
 				<div className="site-logo">
-					<img alt="site-logo" src="/img/logo.png" />
+					<img alt="site-logo" src="/img/logo.webp" />
 				</div>
 				<Suspense fallback={<div></div>}>
 					<Navbar activeLink={props.activeLink}/>

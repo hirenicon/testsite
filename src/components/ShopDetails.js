@@ -85,22 +85,22 @@ const ShopDetails = () =>{
 											<div className="image-selection-area">
 												<div className="product-sub-image active">
 													<div className="overlay-sub-img-bg"></div>
-													<img src="/img/product_img_4.jpg" alt=" "/>
+													<img src="/img/product_img_4.webp" alt=" "/>
 												</div>
 												<div className="product-sub-image">
 													<div className="overlay-sub-img-bg"></div>
-													<img src="/img/product_bottoms.jpg" alt=" "/>
+													<img src="/img/product_bottoms.webp" alt=" "/>
 												</div>
 												<div className="product-sub-image">
 													<div className="overlay-sub-img-bg"></div>
-													<img src="/img/product_img_2.jpg" alt=" "/>
+													<img src="/img/product_img_2.webp" alt=" "/>
 												</div>
 											</div>
 										</div>
 										<div className="col-lg-9 col-md-9">
 											<div className="full-size-image-area">
 												<div className="product-main-image">
-													<img src="/img/product_img_4.jpg" alt=" "/>
+													<img src="/img/product_img_4.webp" alt=" "/>
 												</div>
 											</div>
 										</div>
@@ -276,7 +276,7 @@ const ShopDetails = () =>{
 								<div className="col-md-4">
 									<div className="home-product-card">
 							      		<div className="home-product-img">
-							      			<img alt="product-img" src="/img/product_sweatshirt_2.jpg"/>
+							      			<img alt="product-img" src="/img/product_sweatshirt_2.webp"/>
 							      			<div className="product-img-content">
 							      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 							      			</div>
@@ -292,7 +292,7 @@ const ShopDetails = () =>{
 						      	<div className="col-md-4">
 									<div className="home-product-card">
 							      		<div className="home-product-img">
-							      			<img alt="product-img" src="/img/product_bottoms.jpg"/>
+							      			<img alt="product-img" src="/img/product_bottoms.webp"/>
 							      			<div className="product-img-content">
 							      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 							      			</div>
@@ -308,7 +308,7 @@ const ShopDetails = () =>{
 						      	<div className="col-md-4">
 									<div className="home-product-card">
 							      		<div className="home-product-img">
-							      			<img alt="product-img" src="/img/product_sweatshirts.jpg"/>
+							      			<img alt="product-img" src="/img/product_sweatshirts.webp"/>
 							      			<div className="product-img-content">
 							      				<a href="/"><span><i className="fas fa-shopping-cart"></i></span> Add to cart</a>
 							      			</div>

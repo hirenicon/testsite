@@ -55,12 +55,7 @@ const About = () =>{
 							<div className="col-lg-6 col-md-6 p-0">
 								<div className="about-store-image">
 									<div className="about-store-image-level-1">
-										{/*<img alt="about-img" src="/img/about_us_video.jpg"/>*/}
-										<picture>
-											<source srcSet="/img/about_us_video.webp" type="image/webp"/>
-											<source srcSet="/img/about_us_video.jpg" type="image/jpeg"/> 
-											<img src="/img/about_us_video.jpg" alt="about-img"/>
-										</picture>
+										<img alt="about-img" src="/img/about_us_video.webp"/>
 									</div>
 								</div>
 							</div>
@@ -73,28 +68,13 @@ const About = () =>{
 					<div className="row flex-column-reverse flex-md-row">
 						<div className="col-lg-6 col-md-6">
 							<div className="img-tab img-tab-Mission active">
-								{/*<img alt="tab-img" src="/img/news_image.jpg"/>*/}
-								<picture>
-									<source srcSet="/img/news_image.webp" type="image/webp"/>
-									<source srcSet="/img/news_image.jpg" type="image/jpeg"/> 
-									<img src="/img/news_image.jpg" alt="tab-img"/>
-								</picture>
+								<img alt="tab-img" src="/img/news_image.webp"/>
 							</div>
 							<div className="img-tab img-tab-Vision">
-								{/*<img alt="tab-img" src="/img/product_sweatshirts.jpg" />*/}
-								<picture>
-									<source srcSet="/img/product_sweatshirts.webp" type="image/webp"/>
-									<source srcSet="/img/product_sweatshirts.jpg" type="image/jpeg"/> 
-									<img src="/img/product_sweatshirts.jpg" alt="tab-img"/>
-								</picture>
+								<img alt="tab-img" src="/img/product_sweatshirts.webp" />
 							</div>
 							<div className="img-tab img-tab-Goal">
-								{/*<img alt="tab-img" src="/img/product_shirts.jpg" />*/}
-								<picture>
-									<source srcSet="/img/product_shirts.webp" type="image/webp"/>
-									<source srcSet="/img/product_shirts.jpg" type="image/jpeg"/> 
-									<img src="/img/product_shirts.jpg" alt="tab-img"/>
-								</picture>
+								<img alt="tab-img" src="/img/product_shirts.webp" />
 							</div>
 						</div>
 						<div className="col-lg-6 col-md-6">
@@ -132,62 +112,32 @@ const About = () =>{
 						<div className="row">
 							<div className="col-lg-2 col-md-2 col-sm-6 col-6">
 								<div className="partner-img">
-									{/*<img alt="partner-img" src="/img/partner_1.png" />*/}
-									<picture>
-										<source srcSet="/img/partner_1.webp" type="image/webp"/>
-										<source srcSet="/img/partner_1.png" type="image/png"/> 
-										<img src="/img/partner_1.png" alt="partner-img"/>
-									</picture>
+									<img alt="partner-img" src="/img/partner_1.webp" />
 								</div>
 							</div>
 							<div className="col-lg-2 col-md-2 col-sm-6 col-6">
 								<div className="partner-img">
-									{/*<img alt="partner-img" src="/img/partner_2.png" />*/}
-									<picture>
-										<source srcSet="/img/partner_2.webp" type="image/webp"/>
-										<source srcSet="/img/partner_2.png" type="image/png"/> 
-										<img src="/img/partner_2.png" alt="partner-img"/>
-									</picture>
+									<img alt="partner-img" src="/img/partner_2.webp" />
 								</div>
 							</div>
 							<div className="col-lg-2 col-md-2 col-sm-6 col-6">
 								<div className="partner-img">
-									{/*<img alt="partner-img" src="/img/partner_3.png" />*/}
-									<picture>
-										<source srcSet="/img/partner_3.webp" type="image/webp"/>
-										<source srcSet="/img/partner_3.png" type="image/png"/> 
-										<img src="/img/partner_3.png" alt="partner-img"/>
-									</picture>
+									<img alt="partner-img" src="/img/partner_3.webp" />
 								</div>
 							</div>
 							<div className="col-lg-2 col-md-2 col-sm-6 col-6">
 								<div className="partner-img">
-									{/*<img alt="partner-img" src="/img/partner_4.png" />*/}
-									<picture>
-										<source srcSet="/img/partner_4.webp" type="image/webp"/>
-										<source srcSet="/img/partner_4.png" type="image/png"/> 
-										<img src="/img/partner_4.png" alt="partner-img"/>
-									</picture>
+									<img alt="partner-img" src="/img/partner_4.webp" />
 								</div>
 							</div>
 							<div className="col-lg-2 col-md-2 col-sm-6 col-6">
 								<div className="partner-img">
-									{/*<img alt="partner-img" src="/img/partner_5.png" />*/}
-									<picture>
-										<source srcSet="/img/partner_5.webp" type="image/webp"/>
-										<source srcSet="/img/partner_5.png" type="image/png"/> 
-										<img src="/img/partner_5.png" alt="partner-img"/>
-									</picture>
+									<img alt="partner-img" src="/img/partner_5.webp" />
 								</div>
 							</div>
 							<div className="col-lg-2 col-md-2 col-sm-6 col-6">
 								<div className="partner-img">
-									{/*<img alt="partner-img" src="/img/partner_6.png" />*/}
-									<picture>
-										<source srcSet="/img/partner_6.webp" type="image/webp"/>
-										<source srcSet="/img/partner_6.png" type="image/png"/> 
-										<img src="/img/partner_6.png" alt="partner-img"/>
-									</picture>
+									<img alt="partner-img" src="/img/partner_6.webp" />
 								</div>
 							</div>
 						</div>	

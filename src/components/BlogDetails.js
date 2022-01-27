@@ -120,12 +120,7 @@ const BlogDetails = () =>{
 							<div className="row">
 								<div className="col-lg-2 col-md-3">
 									<div className="blog-comment-image">
-										{/*<img src="/img/about_us_video.jpg" alt=" "/>*/}
-										<picture>
-											<source srcSet="/img/about_us_video.webp" type="image/webp"/>
-											<source srcSet="/img/about_us_video.jpg" type="image/jpeg"/> 
-											<img src="/img/about_us_video.jpg" alt=" "/>
-										</picture>
+										<img src="/img/about_us_video.webp" alt=" "/>
 									</div>
 								</div>
 								<div className="col-lg-10 col-md-9">
@@ -248,7 +243,7 @@ const BlogDetails = () =>{
 									<div className="news-item">
 										<div className="news-item-image">
 											<a href="/">
-												<img alt="news-img" src="/img/news_image.jpg"/>
+												<img alt="news-img" src="/img/news_image.webp"/>
 												<div className="news-item-image-overlay">
 														<i className="fas fa-link"></i>
 												</div>

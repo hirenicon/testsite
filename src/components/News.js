@@ -45,7 +45,7 @@ const News = () =>{
 		        	<div className="news-item">
 			        	<div className="news-item-image">
 			        		<a href="/">
-			        			<img alt="news-img" src="/img/news_image.jpg"/>
+			        			<img alt="news-img" src="/img/news_image.webp"/>
 					        	<div className="news-item-image-overlay">
 					        		<i className="fas fa-link"></i>
 					        	</div>

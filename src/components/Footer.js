@@ -11,12 +11,7 @@ const Footer = () =>{
 				<div className="container-fluid">
 					<div className="footer-content">
 						<div className="footer-site-logo">
-								{/*<img alt="footer-logo" src="/img/site_footer_logo.webp" />*/}
-							<picture>
-								  <source srcSet="/img/site_footer_logo.webp" type="image/webp"/>
-								  <source srcSet="/img/site_footer_logo.png" type="image/jpeg"/> 
-								  <img src="/img/site_footer_logo.png"/>
-							</picture>
+							<img alt="footer-logo" src="/img/site_footer_logo.webp" />
 						</div>
 						<div className="footer-site-links">
 							<nav>

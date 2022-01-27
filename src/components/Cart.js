@@ -95,7 +95,7 @@ class Cart extends React.Component{
 											</td>
 											<td>
 												<div className="cart-product-details">
-													<img src="/img/product_bottoms.jpg" alt=" "/>
+													<img src="/img/product_bottoms.webp" alt=" "/>
 													<h3>Crew Sweatshirt</h3>
 												</div>
 											</td>
@@ -127,7 +127,7 @@ class Cart extends React.Component{
 											</td>
 											<td>
 												<div className="cart-product-details">
-													<img src="/img/product_bottoms.jpg" alt=" "/>
+													<img src="/img/product_bottoms.webp" alt=" "/>
 													<h3>Crew Sweatshirt</h3>
 												</div>
 											</td>
